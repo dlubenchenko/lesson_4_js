@@ -1,2 +1,2 @@
 // JavaScript File
-alert(Hello);
+alert('Hello');
